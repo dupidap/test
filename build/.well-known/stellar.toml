@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+"GCDI5CCP5JRLFTALFJDVHXE4Z7KTDLLQXPNSKHMHUG4CHYTWYV645NZ4"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
+ORG_DESCRIPTION="NFT stands for non-fungible token. It's generally built using the same kind of programming as cryptocurrency, like Bitcoin or Ethereum, but that's where the similarity ends. Physical money and cryptocurrencies are “fungible,” meaning they can be traded or exchanged for one another."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/X3zWgxL/tronchain.png"
+ORG_LOGO="https://i.ibb.co/r4kNZpP/nft.webp"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="TronChain"
-issuer="GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+code="xNFT"
+issuer="GCDI5CCP5JRLFTALFJDVHXE4Z7KTDLLQXPNSKHMHUG4CHYTWYV645NZ4"
 anchor_asset="false"
-name="TronChain"
-desc="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-image="https://i.ibb.co/X3zWgxL/tronchain.png"
-fixed_number=10000000
-max_number=10000000
+name="NonFungibleToken"
+desc="NFT stands for non-fungible token. It's generally built using the same kind of programming as cryptocurrency, like Bitcoin or Ethereum, but that's where the similarity ends. Physical money and cryptocurrencies are “fungible,” meaning they can be traded or exchanged for one another."
+image="https://i.ibb.co/r4kNZpP/nft.webp"
+fixed_number=1000000000
+max_number=1000000000
 is_unlimited=false
-#TronChain was issued using the open and inclusive Stellar blockchain network.
+#xNFT was issued using the open and inclusive Stellar blockchain network.
