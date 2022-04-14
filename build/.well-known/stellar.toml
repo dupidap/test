@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCDI5CCP5JRLFTALFJDVHXE4Z7KTDLLQXPNSKHMHUG4CHYTWYV645NZ4"
+"GAMQKLFF3DKL3PQQKNWHCDZNEF6XRZNLO345SLVUEHJVK3KLWHBKVOFM"
 ]
 VERSION="2.0.0"
 
@@ -15,13 +15,13 @@ ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="xNFT"
-issuer="GCDI5CCP5JRLFTALFJDVHXE4Z7KTDLLQXPNSKHMHUG4CHYTWYV645NZ4"
+code="test"
+issuer="GAMQKLFF3DKL3PQQKNWHCDZNEF6XRZNLO345SLVUEHJVK3KLWHBKVOFM"
 anchor_asset="false"
-name="NonFungibleToken"
-desc="NFT stands for non-fungible token. It's generally built using the same kind of programming as cryptocurrency, like Bitcoin or Ethereum, but that's where the similarity ends. Physical money and cryptocurrencies are “fungible,” meaning they can be traded or exchanged for one another."
+name="test"
+desc="test"
 image="https://i.ibb.co/sVKN9Lw/xrhGold.gif"
-fixed_number=1000000000
-max_number=1000000000
+fixed_number=142
+max_number=142
 is_unlimited=false
-#xNFT was issued using the open and inclusive Stellar blockchain network.
+#test was issued using the open and inclusive Stellar blockchain network.
